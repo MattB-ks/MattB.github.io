@@ -29,7 +29,7 @@
 }
 
 .hero {
-  background: url(/Assets/Images/beach-191.jpg) center center/cover no-repeat;
+  background: url(../Images/beach-191.jpg) center center/cover no-repeat;
   height: 1000px;
   width: auto;
 }

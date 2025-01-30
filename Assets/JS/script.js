@@ -39,10 +39,10 @@ signupBtn.addEventListener('click', function () {
 //This is the start of the code for the carousel
 
 const images = [
-  "Assets/Images/islandResort.jpg",
-  "Assets/Images/islandMountain.jpg",
-  "Assets/Images/resortPool.jpg",
-  "Assets/Images/Family meal.jpg",
+  "./Assets/Images/islandResort.jpg",
+  "./Assets/Images/islandMountain.jpg",
+  "./Assets/Images/resortPool.jpg",
+  "./Assets/Images/Family meal.jpg",
 ];
 
 const imageContainer = document.querySelector(".carousel-inner .active img");
